@@ -1,0 +1,161 @@
+@media(max-width: 1500px){
+    
+      .bule-circle {
+        width: 220px;
+        height: 220px;
+    }
+    .coolect-box{
+        width: 22%;
+    }
+    .collect-c {
+        margin-top: 130px;
+    }
+    .coolect-box{
+        height: 210px;
+    }
+}
+@media(max-width: 1440px){
+    
+    .menu-list-d > li > a{
+        margin-left: 15px;
+    }
+    .logo-box > a > img {
+        width: 260px;
+    }
+    .menu-list-d{
+        padding: 10px 50px 10px 0px;
+    }
+}
+@media(max-width: 1166px){
+    
+    
+}
+@media(max-width: 992px){
+    .sidebarsection {
+        width: 50%;
+    }
+    #formContent {
+        width: 60%;
+        
+    }
+    .header-c2{
+        display: block;
+    }
+    .sidebarsection{
+        display: none;
+    }
+    .burgers > img {
+        width: 30px;
+        margin-top: -3px;
+    }
+    .menu-list-wrp{
+        background-size: cover;
+        background-position: center;
+    }
+    .sidebar2 a{
+        font-size: 10px;
+    }
+    .sidebar2 {
+        width: 180px;
+        height: 100%;
+    }
+   
+    .header-child1 >h3 {
+        font-size: 25px;
+    }
+    .back-btn1 {
+        padding: 8px 40px;
+    }
+    
+    
+    
+}
+@media(max-width: 767px){
+    .burgers > img {
+        width: 28px;
+        margin-top: -5px;
+    }
+    .sidebar2{
+        display: none;
+    }
+    
+    #formContent {
+        width: 100%;
+        
+    }
+    .sidebarsection {
+        width: 0%;
+    }
+    .back-btn1 {
+        padding: 5px 25px;
+        
+    }
+    
+    .header-wrap {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 0px;
+    }
+    input[type=text]{
+        padding: 8px 32px;
+    }
+    input[type=password]{
+        padding: 8px 32px;
+    }
+    .login-btn{
+        padding: 5px 40px;
+    }
+    th, td {
+        font-size: 7px;
+        padding: 8px;
+    }
+    thead th{
+        padding: 8px;
+    }
+    .back-btn{
+        padding: 5px 25px;
+    }
+    
+    
+    
+}
+@media(max-width: 580px){
+    .back-btn1 {
+        padding: 3px 16px;
+    }
+    .header-child1 >h3 {
+        font-size: 21px;
+    }
+    .header-wrap {
+        padding: 5px 0px;
+    }
+    .login-btn{
+        padding: 5px 20px;
+    } 
+    
+    
+}
+@media(max-width: 280px){
+    .back-btn {
+        padding: 3px 12px;
+    }
+    thead th {
+        padding: 5px;
+    }
+    th, td {
+        font-size: 7px;
+        padding: 5px;
+    }
+    caption{
+        font-size: 1.2em;
+    }
+    
+    
+    
+    
+}
+
+
+
+
